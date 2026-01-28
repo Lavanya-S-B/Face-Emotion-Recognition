@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+mediapipe
+numpy
+imutils
+matplotlib
+protobuf==3.20.3
